@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "3.1",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-3.1.apk",
-  "sha256": "8683df717318e3de575dda74b308ed5552af13e0067ecc79ad4a4bb4d88e724b",
+  "versionCode": 33,
+  "versionName": "3.2",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-3.2.apk",
+  "sha256": "8bfea6a83c6ee5fbd554bf75e72247e70c9b430a670510da9575bc0f8eb8e681",
   "minVersionCode": 0,
-  "notes": "• تحديث تلقائي من الإنترنت"
+  "notes": "• تحديث تلقائي من الإنترنت\n• الخرائط المتجهة والخرائط بدون إنترنت"
 }
