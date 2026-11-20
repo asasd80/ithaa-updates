@@ -12,9 +12,7 @@
 ## الإعداد لأول مرة
 1. في GitHub أنشئ مستودعًا عامًا باسم `ithaa-updates`.
 2. ارفع إليه الملفات الثلاثة: `update-ithaa.json` و`update-dashboard.json` و`stations.json`.
-3. من **Releases ← Draft a new release** أنشئ إصدارين:
-   - الوسم `ithaa-3.6`، وأرفق معه ملف `ithaa-3.6.apk`.
-   - الوسم `dashboard-3.1`، وأرفق معه ملف `lawhat-ithaa-3.1.apk`.
+3. ملفات APK موجودة في مجلد `apks/` داخل المستودع نفسه، وروابطها مكتوبة في ملفي `update-*.json`.
 4. ثبّت النسختين الجديدتين على الشاشة مرة واحدة يدويًا (ADB أو نقل الملف). بعدها تتحدث النسخ القادمة من الإنترنت.
 
 > إذا اخترت اسم مستودع أو حسابًا مختلفًا: في «إذاعة» غيّر الرابط من الإعدادات ← أخرى ← «رابط التحديثات».
@@ -40,10 +38,10 @@
 ## نشر نسخة جديدة من التطبيق
 1. ارفع `versionCode`، وغيّر `versionName`: في «إذاعة» داخل `apk-decoded/apktool.yml`، وفي «لوحة إذاعة» داخل `app/build.gradle`.
 2. ابنِ التطبيق: لـ «إذاعة» شغّل `build.sh` من مجلد المشروع، ولـ «لوحة إذاعة» استخدم Gradle (`assembleRelease`). التوقيع بمفتاح `arabic-radio.jks` يتم تلقائيًا في الحالتين.
-3. أنشئ Release جديدًا على GitHub وأرفق معه ملف APK.
+3. ضع ملف APK الجديد في مجلد `apks/`، ويُستحسن أن تحذف القديم.
 4. حدّث ملف JSON:
    ```bash
-   AAPT=$ANDROID_HOME/build-tools/34.0.0/aapt ./release.sh app.apk update-ithaa.json "رابط-APK-في-Release" "ما الجديد"
+   AAPT=$ANDROID_HOME/build-tools/34.0.0/aapt ./release.sh app.apk update-ithaa.json "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/اسم-الملف.apk" "ما الجديد"
    ```
 5. احفظ ملف JSON في GitHub. خلال 24 ساعة تظهر رسالة «يوجد تحديث» على الشاشة.
 
