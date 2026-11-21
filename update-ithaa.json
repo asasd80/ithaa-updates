@@ -1,8 +1,8 @@
 {
-  "versionCode": 136,
-  "versionName": "3.6-ar",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-3.6.apk",
-  "sha256": "01e1563172723c1a33c16c3f2575bbcde521af1f853a1c89ad3b4b1a9b5d68f3",
+  "versionCode": 137,
+  "versionName": "3.7-ar",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-3.7.apk",
+  "sha256": "01c4157dda6b5e4cb1d12fd326b1c13c925543ddfdd9a9aa957b122293115cc0",
   "minVersionCode": 0,
-  "notes": "• تحديث تلقائي للتطبيق من الإنترنت\n• تحديث المحطات وقوائم تشغيل المطربين بدون تثبيت نسخة جديدة"
+  "notes": "• المطربون: وديع الصافي ومحمد عمر، وقوائم جديدة لطلال مداح وعبدالكريم عبدالقادر\n• قرّاء القرآن بترتيب أبجدي، ومحمد البراك وهيثم الدخين (المصحف كاملًا ويكمل من حيث توقفت)\n• عرض اسم الأغنية من داخل الملف\n• تحديث المحطات وقوائم التشغيل من الإنترنت"
 }
