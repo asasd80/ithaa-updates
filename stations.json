@@ -1,5 +1,5 @@
 {
- "version": 7,
+ "version": 8,
  "lists": {
   "mine": [
    {
@@ -1607,7 +1607,7 @@
     "url": "https://qurango.net/radio/athkar_sabah",
     "url_resolved": "https://qurango.net/radio/athkar_sabah",
     "homepage": "https://www.mp3quran.net",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/adhkar.png",
     "tags": "إسلامية,islam,quran",
     "country": "السعودية",
     "countrycode": "SA",
@@ -1628,7 +1628,7 @@
     "url": "https://qurango.net/radio/athkar_masa",
     "url_resolved": "https://qurango.net/radio/athkar_masa",
     "homepage": "https://www.mp3quran.net",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/adhkar.png",
     "tags": "إسلامية,islam,quran",
     "country": "السعودية",
     "countrycode": "SA",
@@ -1691,7 +1691,7 @@
     "url": "https://qurango.net/radio/riyad",
     "url_resolved": "https://qurango.net/radio/riyad",
     "homepage": "https://www.mp3quran.net",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/riyad-salihin.png",
     "tags": "إسلامية,islam,quran",
     "country": "السعودية",
     "countrycode": "SA",
@@ -1733,7 +1733,7 @@
     "url": "https://qurango.net/radio/saheh-muslim",
     "url_resolved": "https://qurango.net/radio/saheh-muslim",
     "homepage": "https://www.mp3quran.net",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/sahih-muslim.png",
     "tags": "إسلامية,islam,quran",
     "country": "السعودية",
     "countrycode": "SA",
