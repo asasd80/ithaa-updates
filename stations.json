@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "lists": {
   "mine": [
    {
@@ -9,7 +9,7 @@
     "url": "https://azuracast-nuremberg.myautodj.com/listen/ithaa/radio.mp3",
     "url_resolved": "https://azuracast-nuremberg.myautodj.com/listen/ithaa/radio.mp3",
     "homepage": "",
-    "favicon": "file:///android_asset/logos/ithaa-main-mp3.png",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/tarabiyat.png",
     "tags": "منوعات,قرآن,أناشيد",
     "country": "الكويت",
     "countrycode": "KW",
@@ -30,7 +30,7 @@
     "url": "https://azuracast-nuremberg.myautodj.com/hls/ithaa/live.m3u8",
     "url_resolved": "https://azuracast-nuremberg.myautodj.com/hls/ithaa/live.m3u8",
     "homepage": "",
-    "favicon": "file:///android_asset/logos/ithaa-main-hls.png",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/tarabiyat.png",
     "tags": "منوعات,قرآن,أناشيد",
     "country": "الكويت",
     "countrycode": "KW",
@@ -51,7 +51,7 @@
     "url": "https://azuracast-nuremberg.myautodj.com/listen/doaa/radio.mp3",
     "url_resolved": "https://azuracast-nuremberg.myautodj.com/listen/doaa/radio.mp3",
     "homepage": "https://azuracast-nuremberg.myautodj.com/public/doaa",
-    "favicon": "file:///android_asset/logos/ithaa-doaa-mp3.png",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/doaa.png",
     "tags": "doaa,islam",
     "country": "",
     "countrycode": "KW",
