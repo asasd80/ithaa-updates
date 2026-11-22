@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "3.2",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-3.2.apk",
-  "sha256": "8bfea6a83c6ee5fbd554bf75e72247e70c9b430a670510da9575bc0f8eb8e681",
+  "versionCode": 45,
+  "versionName": "4.5",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-4.5.apk",
+  "sha256": "d7de7da47dfdff216db8a79fdc7e7decd10fb60d95004a0e58b3c0d9d814012d",
   "minVersionCode": 0,
-  "notes": "• تحديث تلقائي من الإنترنت\n• الخرائط المتجهة والخرائط بدون إنترنت"
+  "notes": "• شريط الأدوات: 16 أداة تختارها وترتبها\n• عداد الرحلة، وقراءة السيارة عبر OBD-II\n• صورة سيارتك وشعار «سيارة»\n• لوحة سريعة، وأوضاع الشاشة، وتأثيرات الإضاءة\n• قفل الشاشة الرئيسية\n• شعار جديد للتطبيق"
 }
