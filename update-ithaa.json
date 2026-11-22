@@ -1,8 +1,8 @@
 {
-  "versionCode": 138,
-  "versionName": "3.8-ar",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-3.8.apk",
-  "sha256": "df7ca3c7a4fe35aff5946b4797e3734ec81790d9be836b49b0bcc2c3b9031c02",
+  "versionCode": 139,
+  "versionName": "3.9-ar",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-3.9.apk",
+  "sha256": "619b6da2a9df5043eab3f278468aa477a3a986745edeb97a95bc9d1af80e84af",
   "minVersionCode": 0,
-  "notes": "• شعارات ثابتة لـ 21 إذاعة كانت صورها تأتي من مواقع خارجية\n• إمكانية وضع شعارات للإذاعات من الدول والبحث أونلاين (مثل AFN البحرين)"
+  "notes": "• إخفاء رسالة «محطة غير موجودة على الخادم» لقنوات التطبيق الخاصة في المفضلة والسجل\n• شعارات ثابتة للإذاعات، وشعارات قنوات البرامج الإسلامية\n• شعارات لإذاعات الدول والبحث (مثل AFN البحرين)"
 }
