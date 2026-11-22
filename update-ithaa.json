@@ -1,8 +1,8 @@
 {
-  "versionCode": 137,
-  "versionName": "3.7-ar",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-3.7.apk",
-  "sha256": "01c4157dda6b5e4cb1d12fd326b1c13c925543ddfdd9a9aa957b122293115cc0",
+  "versionCode": 138,
+  "versionName": "3.8-ar",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-3.8.apk",
+  "sha256": "df7ca3c7a4fe35aff5946b4797e3734ec81790d9be836b49b0bcc2c3b9031c02",
   "minVersionCode": 0,
-  "notes": "• المطربون: وديع الصافي ومحمد عمر، وقوائم جديدة لطلال مداح وعبدالكريم عبدالقادر\n• قرّاء القرآن بترتيب أبجدي، ومحمد البراك وهيثم الدخين (المصحف كاملًا ويكمل من حيث توقفت)\n• عرض اسم الأغنية من داخل الملف\n• تحديث المحطات وقوائم التشغيل من الإنترنت"
+  "notes": "• شعارات ثابتة لـ 21 إذاعة كانت صورها تأتي من مواقع خارجية\n• إمكانية وضع شعارات للإذاعات من الدول والبحث أونلاين (مثل AFN البحرين)"
 }
