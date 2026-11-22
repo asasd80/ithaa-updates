@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "lists": {
   "mine": [
    {
@@ -452,7 +452,7 @@
     "url": "https://stream.zeno.fm/eek5rvi7rxytv",
     "url_resolved": "https://stream.zeno.fm/eek5rvi7rxytv",
     "homepage": "",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/vdl-933.png",
     "tags": "أخبار,news",
     "country": "لبنان",
     "countrycode": "LB",
