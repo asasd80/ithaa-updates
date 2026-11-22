@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "lists": {
   "mine": [
    {
@@ -72,7 +72,7 @@
     "url": "https://stream.zeno.fm/dt4vhrc6opdvv",
     "url_resolved": "https://stream.zeno.fm/dt4vhrc6opdvv",
     "homepage": "",
-    "favicon": "file:///android_asset/logos/ithaa-smile-mp3.png",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/smile.png",
     "tags": "smile",
     "country": "",
     "countrycode": "KW",
@@ -93,7 +93,7 @@
     "url": "https://stream.zeno.fm/aqx3usbtsg0uv",
     "url_resolved": "https://stream.zeno.fm/aqx3usbtsg0uv",
     "homepage": "",
-    "favicon": "file:///android_asset/logos/ithaa-daysold-mp3.png",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/daysold.png",
     "tags": "oldies",
     "country": "",
     "countrycode": "KW",
