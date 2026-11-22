@@ -44,7 +44,7 @@
 ## نشر نسخة جديدة من التطبيق
 1. ارفع `versionCode`، وغيّر `versionName` في `app/build.gradle` (في «إذاعة» من النسخة 3.7 فما فوق، وفي «لوحة إذاعة»).
 2. ابنِ التطبيق بـ Gradle ووقّعه بمفتاح `arabic-radio.jks`. لا تستعمل مفتاحًا آخر، وإلا رفض أندرويد التحديث وانقطع الربط بين التطبيقين.
-3. ضع ملف APK الجديد في مجلد `apks/`، ويُستحسن أن تحذف القديم.
+3. ضع ملف APK الجديد في مجلد `apks/`. **أبقِ النسخة السابقة** حتى تنشر التي بعدها: GitHub يحتفظ بملف JSON القديم بضع دقائق، فإن حُذف الـ APK القديم فشل التنزيل لمن فحص في تلك الدقائق.
 4. حدّث ملف JSON:
    ```bash
    AAPT=$ANDROID_HOME/build-tools/34.0.0/aapt ./release.sh app.apk update-ithaa.json "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/اسم-الملف.apk" "ما الجديد"
