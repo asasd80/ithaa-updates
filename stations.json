@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "lists": {
   "mine": [
    {
@@ -1712,7 +1712,7 @@
     "url": "https://qurango.net/radio/saheh-bokharee",
     "url_resolved": "https://qurango.net/radio/saheh-bokharee",
     "homepage": "https://www.mp3quran.net",
-    "favicon": "",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/sahih-bukhari.png",
     "tags": "إسلامية,islam,quran",
     "country": "السعودية",
     "countrycode": "SA",
