@@ -1,5 +1,5 @@
 {
- "version": 12,
+ "version": 13,
  "lists": {
   "mine": [
    {
@@ -2934,7 +2934,7 @@
     "url": "https://kwtkrdota.cdn.mangomolo.com/suprdo/suprdo.stream_aac/chunklist.m3u8",
     "url_resolved": "https://kwtkrdota.cdn.mangomolo.com/suprdo/suprdo.stream_aac/chunklist.m3u8",
     "homepage": "https://tunein.com/radio/Kuwait-General-Radio-s37332/",
-    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/kuwait-fm.png",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/kuwait-fm-997.png",
     "tags": "music,arabic,kuwait",
     "country": "الكويت",
     "countrycode": "KW",
