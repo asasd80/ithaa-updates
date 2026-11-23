@@ -1,5 +1,5 @@
 {
- "version": 11,
+ "version": 12,
  "lists": {
   "mine": [
    {
@@ -2927,6 +2927,27 @@
    }
   ],
   "music": [
+   {
+    "stationuuid": "242c68ef-43dd-5f8c-b110-19d756de3ba7",
+    "changeuuid": "242c68ef-43dd-5f8c-b110-19d756de3ba7",
+    "name": "إذاعة الكويت FM 99.7",
+    "url": "https://kwtkrdota.cdn.mangomolo.com/suprdo/suprdo.stream_aac/chunklist.m3u8",
+    "url_resolved": "https://kwtkrdota.cdn.mangomolo.com/suprdo/suprdo.stream_aac/chunklist.m3u8",
+    "homepage": "https://tunein.com/radio/Kuwait-General-Radio-s37332/",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/kuwait-fm.png",
+    "tags": "music,arabic,kuwait",
+    "country": "الكويت",
+    "countrycode": "KW",
+    "state": "",
+    "language": "arabic",
+    "votes": 0,
+    "clickcount": 0,
+    "clicktrend": 0,
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "hls": 1,
+    "lastcheckok": 1
+   },
    {
     "stationuuid": "047fcfb5-9e59-478e-9e6a-a006cc401868",
     "changeuuid": "",
