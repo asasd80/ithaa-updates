@@ -1,5 +1,5 @@
 {
- "version": 13,
+ "version": 14,
  "lists": {
   "mine": [
    {
@@ -2935,6 +2935,27 @@
     "url_resolved": "https://kwtkrdota.cdn.mangomolo.com/suprdo/suprdo.stream_aac/chunklist.m3u8",
     "homepage": "https://tunein.com/radio/Kuwait-General-Radio-s37332/",
     "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/kuwait-fm-997.png",
+    "tags": "music,arabic,kuwait",
+    "country": "الكويت",
+    "countrycode": "KW",
+    "state": "",
+    "language": "arabic",
+    "votes": 0,
+    "clickcount": 0,
+    "clicktrend": 0,
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "hls": 1,
+    "lastcheckok": 1
+   },
+   {
+    "stationuuid": "2f94b44f-aa63-5477-9775-e9eec10bebc2",
+    "changeuuid": "2f94b44f-aa63-5477-9775-e9eec10bebc2",
+    "name": "مارينا FM 90.4",
+    "url": "https://ffs3.gulfsat.com/MARINA-FM-904/index.m3u8",
+    "url_resolved": "https://ffs3.gulfsat.com/MARINA-FM-904/index.m3u8",
+    "homepage": "https://marinafm.com/",
+    "favicon": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/logos/marina-fm.png",
     "tags": "music,arabic,kuwait",
     "country": "الكويت",
     "countrycode": "KW",

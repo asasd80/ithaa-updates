@@ -1,8 +1,8 @@
 {
-  "versionCode": 143,
-  "versionName": "4.3-ar",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-4.3.apk",
-  "sha256": "3709381fbc753fcf54326a3ccd373af69518bc51cac436fa257d7b1e156be7d8",
+  "versionCode": 145,
+  "versionName": "4.5-ar",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-4.5.apk",
+  "sha256": "eb33921405f7554f0c6d2fc66886b42abc691ec754ab6b3ba72d2cbb22c10802",
   "minVersionCode": 0,
-  "notes": "• فحص تحديثات التطبيق أصبح أول الإعدادات\n• التحديثات تُقبل فقط إذا كانت موقّعة من صاحب التطبيق، ورابط التحديثات ثابت\n• إخفاء رابط التحديثات ومفتاح Last.fm من الإعدادات\n• «حول التطبيق» يعرض الإصدار ورابط GitHub\n• مقاسات تتكيّف مع الهاتف والتابلت وشاشة السيارة والتلفاز\n• خط HarmonyOS Sans Naskh Arabic Black\n• قوائم المحطات الأحدث مضمّنة في التطبيق"
+  "notes": "• ترتيب جديد للقوائم يبدأ بالمفضلة ثم قرّاء القرآن\n• صور القنوات تتغير مع القناة في المفضلة والمشغّل، حتى للقنوات المحفوظة سابقًا أو بأسماء إنجليزية"
 }
