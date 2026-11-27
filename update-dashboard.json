@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "4.5",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-4.5.apk",
-  "sha256": "d7de7da47dfdff216db8a79fdc7e7decd10fb60d95004a0e58b3c0d9d814012d",
+  "versionCode": 46,
+  "versionName": "4.6",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-4.6.apk",
+  "sha256": "dd246b4d3cbc3a596ad9efc8aa58126bece134ec5c8acaa676fb3f52a7d4d652",
   "minVersionCode": 0,
-  "notes": "• شريط الأدوات: 16 أداة تختارها وترتبها\n• عداد الرحلة، وقراءة السيارة عبر OBD-II\n• صورة سيارتك وشعار «سيارة»\n• لوحة سريعة، وأوضاع الشاشة، وتأثيرات الإضاءة\n• قفل الشاشة الرئيسية\n• شعار جديد للتطبيق"
+  "notes": "• سهم القبلة الأخضر بجانب البوصلة، ويتوهج عند الاتجاه الصحيح\n• الوقت المتبقي للصلاة القادمة فوق الطقس، واضغط عليه لمواقيت اليوم\n• يتذكر اتجاه السيارة بعد إطفائها"
 }
