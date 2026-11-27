@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "4.6",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-4.6.apk",
-  "sha256": "dd246b4d3cbc3a596ad9efc8aa58126bece134ec5c8acaa676fb3f52a7d4d652",
+  "versionCode": 47,
+  "versionName": "4.7",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-4.7.apk",
+  "sha256": "6ed289f8076350af8e92739c862d4c3e56d1bb9d447c62cf50307e45e6091bf2",
   "minVersionCode": 0,
-  "notes": "• سهم القبلة الأخضر بجانب البوصلة، ويتوهج عند الاتجاه الصحيح\n• الوقت المتبقي للصلاة القادمة فوق الطقس، واضغط عليه لمواقيت اليوم\n• يتذكر اتجاه السيارة بعد إطفائها"
+  "notes": "• خط أرقام رقمي (شاشة رقمية) للسرعة والبوصلة والساعة، ويمكن الرجوع للخط العادي من الإعدادات\n• سهم القبلة الأخضر بجانب البوصلة\n• الوقت المتبقي للصلاة فوق الطقس"
 }
