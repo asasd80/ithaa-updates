@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "4.7",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-4.7.apk",
-  "sha256": "6ed289f8076350af8e92739c862d4c3e56d1bb9d447c62cf50307e45e6091bf2",
+  "versionCode": 49,
+  "versionName": "4.9",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/lawhat-ithaa-4.9.apk",
+  "sha256": "add585bd41e7408037939e4c18a7bdf4a5d1ba0cc76b4d59b9b5f96d1588834b",
   "minVersionCode": 0,
-  "notes": "• خط أرقام رقمي (شاشة رقمية) للسرعة والبوصلة والساعة، ويمكن الرجوع للخط العادي من الإعدادات\n• سهم القبلة الأخضر بجانب البوصلة\n• الوقت المتبقي للصلاة فوق الطقس"
+  "notes": "• سطر الصلاة بنفس شكل سطر الطقس مع رمز مسجد\n• سهم القبلة بنفس حجم وشكل سهم البوصلة\n• التاريخ الهجري بنفس حجم الميلادي\n• محاذاة الأرقام ومسافات متساوية بين السرعة والبوصلة والساعة"
 }
