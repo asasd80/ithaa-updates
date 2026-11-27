@@ -1,8 +1,8 @@
 {
-  "versionCode": 145,
-  "versionName": "4.5-ar",
-  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-4.5.apk",
-  "sha256": "eb33921405f7554f0c6d2fc66886b42abc691ec754ab6b3ba72d2cbb22c10802",
+  "versionCode": 146,
+  "versionName": "4.6-ar",
+  "apkUrl": "https://raw.githubusercontent.com/asasd80/ithaa-updates/main/apks/ithaa-4.6.apk",
+  "sha256": "b5e26498dc769d771b44bdd350123a28176c5d952c9e56d499f36112bd71c2d5",
   "minVersionCode": 0,
-  "notes": "• ترتيب جديد للقوائم يبدأ بالمفضلة ثم قرّاء القرآن\n• صور القنوات تتغير مع القناة في المفضلة والمشغّل، حتى للقنوات المحفوظة سابقًا أو بأسماء إنجليزية"
+  "notes": "• تغيير اسم قائمة «أغاني وطرب» إلى «إذاعات منوعة»\n• ترتيب القوائم يبدأ بالمفضلة ثم قرّاء القرآن\n• صور القنوات تتغير مع القناة"
 }
